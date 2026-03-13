@@ -3,10 +3,10 @@ swift-package-manager-fivead
 
 Provides Swift Package Manager support for installing FiveAd.
 
-For general information about **LINE広告ネットワーク**, please refer to:  
+For general information about **LINE Ads Network** (Japanese):  
 https://pages.linebiz.com/line-ads-network/
 
-For the Media Partner developer usage guide, please refer to:  
+For the Media Partner developer guide (Japanese):  
 https://adsnetwork-docs.linebiz.com/
 
 Branches and Tags

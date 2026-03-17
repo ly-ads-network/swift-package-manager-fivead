@@ -1,2 +1,21 @@
-swift-package-manager-fivead
+FiveAd Swift Package
 ==========
+
+Swift Package Manager distribution for FiveAd.
+
+For general information about **LINE Ads Network** (Japanese):  
+https://pages.linebiz.com/line-ads-network/
+
+For the Media Partner developer guide (Japanese):  
+https://adsnetwork-docs.linebiz.com/
+
+Branches and Tags
+----------
+
+### Branches
+
+* `main`: Default branch of this repository.
+
+### Tags
+
+* Version tags follow semantic versioning: `{major}.{minor}.{patch}`

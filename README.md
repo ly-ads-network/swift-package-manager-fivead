@@ -25,5 +25,5 @@ License
 
 Unless otherwise noted, the files in this repository are licensed under the terms of the LICENSE file.
 
-The distributed binary frameworks are provided under
+The binary frameworks distributed with this package are not covered by the LICENSE file and are provided under
 [a separate commercial license (Japanese)](https://www.linebiz.com/jp-en/terms-and-policies/line-ads-network/sdk-license/).

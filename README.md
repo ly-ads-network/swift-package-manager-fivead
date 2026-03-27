@@ -19,3 +19,10 @@ Branches and Tags
 ### Tags
 
 * Version tags follow semantic versioning: `{major}.{minor}.{patch}`
+
+License
+----------
+
+Unless otherwise noted, the files in this repository are licensed under the terms of the LICENSE file.
+
+The distributed binary frameworks are provided under a separate commercial license.

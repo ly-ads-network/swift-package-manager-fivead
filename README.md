@@ -19,3 +19,11 @@ Branches and Tags
 ### Tags
 
 * Version tags follow semantic versioning: `{major}.{minor}.{patch}`
+
+License
+----------
+
+Unless otherwise noted, the files in this repository are licensed under the terms of the LICENSE file.
+
+The binary frameworks distributed with this package are not covered by the LICENSE file and are provided under
+[a separate commercial license (Japanese)](https://www.linebiz.com/jp-en/terms-and-policies/line-ads-network/sdk-license/).

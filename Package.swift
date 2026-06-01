@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "FiveAd",
-    platforms: [ .iOS(.v13) ],
+    platforms: [ .iOS(.v15) ],
     products: [
         .library(
             name: "FiveAd",
@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "FiveAd",
-            url: "https://cdn.fivecdm.com/release-sdk/ios/v3.0.1/FiveAd.framework.zip",
-            checksum: "62fc94398a97de61359178fafaf5eec4f1df566a01d65aab9b4a8d0c0b493619"
+            url: "https://github.com/ly-ads-network/swift-package-manager-fivead/releases/download/3.1.0-beta.1/FiveAd-3.1.0-beta.1.xcframework.zip",
+            checksum: "64c5896cf9986910a9b956104ff85ba49b4ed786984a0ba2e59e4bc8430b376a"
         )
     ]
 )

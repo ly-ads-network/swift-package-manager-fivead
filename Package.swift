@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "FiveAd",
-            url: "https://github.com/ly-ads-network/swift-package-manager-fivead/releases/download/3.1.0-beta.5/FiveAd-3.1.0-beta.5.xcframework.zip",
-            checksum: "281f435e91901cf346b07d5eb76df4324f3ba1d1e1a558926f23f3ce5cc08501"
+            url: "https://github.com/ly-ads-network/swift-package-manager-fivead/releases/download/3.1.0/FiveAd-3.1.0.xcframework.zip",
+            checksum: "bd00fd52ea37abd0b383167a46b24ded6f209d144815ae6dfaa1511a3b850a31"
         )
     ]
 )
